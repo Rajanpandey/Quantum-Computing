@@ -1,6 +1,6 @@
 # Quantum Computing
 
-Qubit Computing with Quantum Physics using Microsoft Quantum (Q# and QDK).
+Quantum Computing with Quantum Physics using Microsoft Quantum (Q# and QDK).
 
 It has the following 3 pillars:
 
